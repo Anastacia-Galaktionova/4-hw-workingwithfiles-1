@@ -53,6 +53,7 @@
                 </actions>
                 <columns>
                     <column id="type"/>
+                    <column id="documentFileColumn" caption="msg://documentFileColumn.caption"/>
                 </columns>
                 <buttonsPanel>
                     <button action="documentsTable.create"/>
